@@ -1,0 +1,57 @@
+
+
+ul {
+  list-style-type: none;
+}
+
+.advice {
+  font-size: small;
+  border: 2px solid grey;
+  margin: 10px;
+  min-width: 30vw;
+  border-radius: 5px;
+  padding: 0.25vw;  
+  text-align: center;
+}
+
+.memeimg {  
+  max-width: 30vw;
+  max-height: 25vh;
+  margin: auto;
+  min-width: 15vw;
+  border-radius: 15%;  
+  padding: 10px;
+  
+  
+}
+
+.comicimg {  
+  max-width: 30vw;
+  max-height: 35vh;
+  margin: auto;
+  min-width: 15vw;
+  border-radius: 15%;  
+  border: 2px solid grey;
+  
+}
+
+
+.randpics {
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 2vw;
+}
+
+.mainbody {
+  border: .7rem solid black;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.loader {
+  visibility: hidden;
+
+}
