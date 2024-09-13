@@ -23,7 +23,6 @@ export default function Daystarter() {
           <Clock2 />
           <RandPics />
           <Currency />
-          <BodyColor />
         </Grid>
       </Grid>
       <Footer />
