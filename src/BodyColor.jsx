@@ -5,7 +5,7 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import ColorLensIcon from "@mui/icons-material/ColorLens";
-import { hsvaToHex, getContrastingColor } from "@uiw/color-convert";
+import { hsvaToHex } from "@uiw/color-convert";
 import Swatch from "@uiw/react-color-swatch";
 
 export default function BodyColor() {
