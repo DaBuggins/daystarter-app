@@ -20,7 +20,7 @@ export default function Advice() {
 
     <div className="advice">
       <h2>
-        <TipsAndUpdatesIcon /> <u>Tip of the Day</u>
+        <TipsAndUpdatesIcon /> <u>Daily Tip</u>
       </h2>
       <h3>
         <i>"{advice}"</i>
