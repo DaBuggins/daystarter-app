@@ -3,7 +3,7 @@ import Cat from "./Cat";
 import PetsOutlinedIcon from "@mui/icons-material/PetsOutlined";
 
 export default function RandPics() {
-  const pics = [<Cat />, <Dog />];
+  const pics = [<Cat />];
 
   return (
     <div className="randpics">
