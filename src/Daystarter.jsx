@@ -16,13 +16,13 @@ export default function Daystarter() {
         <Grid xs={12} sm={6} lg={4}>
           <Title />
           <Advice />
-          <Comic2 />
+{/*           <Comic2 />
           <GameQuote />
         </Grid>
         <Grid xs={12} sm={6} lg={4}>
           <Clock2 />
           <RandPics />
-          <Currency />
+          <Currency /> */}
         </Grid>
       </Grid>
       <Footer />
