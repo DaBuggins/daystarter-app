@@ -21,7 +21,7 @@ export default function Daystarter() {
         </Grid>
         <Grid xs={12} sm={6} lg={4}>
           <Clock2 />
-          <RandPics />
+          // <RandPics />
           <Currency />
         </Grid>
       </Grid> */}
